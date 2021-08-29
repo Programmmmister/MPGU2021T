@@ -1,5 +1,5 @@
 package BinarySearchTree;
-
+//
 public class BinaryTree {
 
     public BSTitem root;
